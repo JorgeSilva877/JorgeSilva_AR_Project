@@ -21259,7 +21259,7 @@ GameObject:
   - component: {fileID: 5184339823404733563}
   m_Layer: 0
   m_Name: TownMesh
-  m_TagString: Untagged
+  m_TagString: modelObject
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
